@@ -1,9 +1,9 @@
 h1 a {
 	color: #9c6638;
-	font-family: 'Bevan';
+	font-family: 'Bevan' cursive;
 }
 body {
-	font-family:'Pontano Sans' sans-serif;
+	font-family:'Pontano Sans', sans-serif;
 	padding-left: 15px;
 }
 .page-header{
@@ -50,6 +50,7 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
+	font-family: 'Pontano Sans', sans-serif;
 	color: #000000;
 }
 }
