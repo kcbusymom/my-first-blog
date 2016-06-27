@@ -1,3 +1,19 @@
+h1, .site-title, .comments-number h2,
+.comment-reply-title{
+	font-family: 'Bevan', cursive;
+	font-size: 1.75em;
+	line-height: 1.321;
+}
+
+h2 {
+	font-size:1.3125em;
+	line-height: 1.143;
+}
+
+a {
+	color: #b5c3cf;
+}
+
 h1 a {
 	color: #9c6638;
 	font-family: 'Bevan' cursive;
