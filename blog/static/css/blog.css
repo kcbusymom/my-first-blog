@@ -14,9 +14,17 @@ a {
 	color: #b5c3cf;
 }
 
+a:link, a:visited, a:hover, a:focus {
+	color: #b5c3cf;
+}
+
 body {
-	font-family:'Pontano Sans', sans-serif;
+	font-family:"Pontano Sans", sans-serif;
 	padding-left: 15px;
+	color: #262533;
+	word-wrap: break-word;
+	-ms-word-wrap: break-word;
+	-webkit-font-smoothing: supbixel-antialiased;
 }
 .page-header{
 	background-color: #63352b;
@@ -35,7 +43,9 @@ body {
 }
 
 h1, h2, h3, h4 {
-	font-family: 'Bevan', cursive;
+	margin: 0;
+	padding: 0;
+	color: #9c6638;
 }
 
 .date {
