@@ -2,6 +2,7 @@ h1, .site-title, .comments-number h2,
 .comment-reply-title{
 	font-family: 'Bevan', cursive;
 	font-size: 1.75em;
+	text-shadow: 4px 4px 4px #aaa;
 	line-height: 1.321;
 }
 
@@ -19,9 +20,8 @@ a:link, a:visited, a:hover, a:focus {
 }
 
 body {
-	font-family: Tangerine, serif;
+	font-family: Shadows Into Light, cursive;
 	font-size: 20px;
-	text-shadow: 4px 4px 4px #aaa;
 	padding-left: 15px;
 	color: #262533;
 	word-wrap: break-word;
