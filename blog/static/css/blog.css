@@ -1,8 +1,8 @@
-h1, .site-title, .comments-number h2,
+.site-title, .comments-number h2,
 .comment-reply-title{
 	font-family: 'Bevan', cursive;
 	font-size: 1.75em;
-	text-shadow: 4px 4px 4px #aaa;
+	
 	line-height: 1.321;
 }
 
@@ -37,6 +37,7 @@ body {
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active{
 	color: #262533;
 	font-size: 36pt;
+	text-shadow: 4px 4px 4px #aaa;
 	text-decoration: none;
 }
 
