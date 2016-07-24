@@ -1,8 +1,8 @@
-.site-title, .comments-number h2,
+h1, .site-title, .comments-number h2,
 .comment-reply-title{
 	font-family: 'Bevan', cursive;
 	font-size: 1.75em;
-	
+	text-shadow: 4px 4px 4px #aaa;
 	line-height: 1.321;
 }
 
